@@ -1,3 +1,3 @@
 ## Enum FizzBuzz  
 
-Enum を使った FizzBuzz 出力プログラム  
+Enum を使った FizzBuzz 出力プログラムです  
